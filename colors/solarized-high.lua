@@ -22,7 +22,7 @@ local lightColors = {
 }
 local darkColors = {
 	none = {'none', 'none'},
-	base02  = {'#073642',23},
+	base02  = {'#1C1C1C',23},
 	red     = {'#dc322f',203},
 	green   = {'#859900',142},
 	yellow  = {'#b58900',178},
